@@ -56,7 +56,9 @@ In addition, all patterns can be categorized by their intent, or purpose. This U
 
 <span style="color:red"> **!!!WARNING!!!** </span>
 
-I am new to RUST programming (as of June 2023)  and may inadvertently have listed code that is not optimized. Use code at your own risk!
+I am very new to RUST programming (as of June 2023)  and may inadvertently have listed code that is not optimized.
+
+Code may be unnecessarily over-engineered and may be simplified. Use this code at your own risk!
 
 
 
