@@ -54,7 +54,7 @@ In addition, all patterns can be categorized by their intent, or purpose. This U
 
     3. Behavioral patterns: take care of effective communication and the assignment of responsibilities between objects.
 
-<span style="color:red"> **!!!WARNING!!!** </span>
+<span style="color:red"> **!!! WARNING !!!** </span>
 
 I am very new to RUST programming (as of June 2023)  and may inadvertently have listed code that is not optimized.
 
