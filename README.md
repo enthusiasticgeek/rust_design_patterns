@@ -32,7 +32,7 @@ https://www.rust-lang.org/learn
 # Optional Dependencies
 sudo apt install cmake valgrind vim
 
-Reference URLs:
+# Reference URLs:
 
 https://refactoring.guru/design-patterns
 
