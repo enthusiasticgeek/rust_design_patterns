@@ -58,7 +58,7 @@ In addition, all patterns can be categorized by their intent, or purpose. This U
 
 I am very new to RUST programming (as of June 2023)  and may inadvertently have listed code that is not optimized.
 
-Code may be unnecessarily over-engineered and may be simplified. Use this code at your own risk!
+Code may be unnecessarily over-engineered and may possibly be simplified. I will keep updating as I get more familiar with RUST. Use this code at your own risk!
 
 
 
