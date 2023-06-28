@@ -6,8 +6,6 @@ This is the preferred way to compile and test one's code online.
 
 https://play.rust-lang.org
 
-The aim of this repository is to learn RUST by changing some code initially. Initial focus is, but not limited to, data structures. 
-As one aquires more skillset they may introduce advanced functions gradually.
 This assumes the reader is familiar with programming languages like C, C++, Python, Java.
 
 # Installation
