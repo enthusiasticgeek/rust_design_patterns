@@ -56,7 +56,7 @@ In addition, all patterns can be categorized by their intent, or purpose. This U
 
 I am very new to RUST programming (as of June 2023)  and may have inadvertently listed code that is not optimized.
 
-The code in this repository may have been unnecessarily over-engineered and may possibly be simplified. I will keep updating the code as I get more familiar with RUST. Please open tickets/issues if any mistakes are spotted. Any feedback is welcome! 
+The code in this repository may have been unnecessarily over-engineered and may possibly be simplified. All the *.rs files compile and run fine with the latest stable version of the RUST compiler. I will keep updating the code as I get more familiar with RUST. Please open tickets/issues if any mistakes are spotted. Any feedback is welcome! 
 
 Use this code at your own risk!
 
