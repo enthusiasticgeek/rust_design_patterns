@@ -35,6 +35,7 @@ sudo apt install cmake valgrind vim
 Reference URLs:
 
 https://refactoring.guru/design-patterns
+
 https://sourcemaking.com/design_patterns
 
 
